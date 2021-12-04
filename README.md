@@ -1,0 +1,2 @@
+# MOZNLP
+Mozambique NLP community
